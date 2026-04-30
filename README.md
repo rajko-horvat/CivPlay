@@ -3,7 +3,7 @@ The EXE needs to be placed in original Civ game directory.
 The player supports additional drivers: Pro cards (OPL-3) driver and General MIDI sound driver.</p>
 
 <p>To compile the source code you need Microsoft C Compiler 6.00A.
-Compile with: cl /AL PLAYER.C</p>
+Compile with: cl /AL CIVPLAY.C</p>
 
 Known tune numbers:
 <ul>
